@@ -1,0 +1,33 @@
+
+.todo-item-box {
+    background: #ffffff;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 12px;
+}
+
+.todo-item-checkbox {
+    border: 1px solid;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.form-check-input[type=checkbox] {
+    border-radius: 50%;
+}
+
+.todo-item-completed {
+    text-decoration: line-through;
+}
+
+.todo-item-delete-link {
+    margin-left: auto;
+    font-weight: 500;
+    letter-spacing: 0.8px;
+}
+
+.todo-item-delete-link:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
