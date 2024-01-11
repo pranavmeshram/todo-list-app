@@ -5,12 +5,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Clone and run the app
 ### `get the code`
 git clone https://github.com/pranavmeshram/todo-list-app.git/
+
 cd todo-list-app/
+
 git pull
+
 git checkout feature/todo-list
 
 ### `run the code`
 npm install
+
 npm start
 
 ## Available Scripts
