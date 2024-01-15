@@ -15,7 +15,9 @@ git checkout feature/todo-list
 ### `run the code`
 npm install
 
-npm start
+npx json-server todo-db.json (run this cmd on a new terminal)
+
+npm start (run this cmd on a new terminal)
 
 ## Available Scripts
 
