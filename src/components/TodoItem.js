@@ -1,5 +1,4 @@
 import React from 'react';
-import '../styles/todoItem.css';
 
 const TodoItem = ({ todoItem, handleCheckBoxClick, handleDelete }) => {
     return (

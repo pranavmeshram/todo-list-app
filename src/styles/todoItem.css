@@ -31,3 +31,11 @@
     text-decoration: underline;
     cursor: pointer;
 }
+.developer-link {
+    color: #0d6efd;
+    cursor: pointer;
+}
+
+.developer-link:hover {
+    text-decoration: underline;
+}
